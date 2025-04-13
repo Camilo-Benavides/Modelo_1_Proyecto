@@ -1,4 +1,4 @@
-# Modelo_1_Proyecto
+# Modelos_1_Proyecto
 
  ### Camilo Benavides Ramairez, 1004083284, Ingeniería de Sistemas
  
