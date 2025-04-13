@@ -1,5 +1,7 @@
 # Modelos_1_Proyecto
 
- ### Camilo Benavides Ramirez, 1004083284, Ingeniería de Sistemas
+ Integrantes:
+
+ Camilo Benavides Ramirez, C.C: 1004083284, Programa: Ingeniería de Sistemas
  
- ### Brayan Santiago Ramirez Silva, 1007524974, Ingeniería de Sistemas
+ Brayan Santiago Ramirez Silva, C.C: 1007524974, Programa: Ingeniería de Sistemas
